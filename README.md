@@ -10,14 +10,15 @@ A simple, but powerfull, way generate ascii art from images
 1
 
 ```
-    clone the project
+    go to https://carlosdanielmaturano.github.io/SCIMA/build/
+
+    or clone the project and follow the step 2
 ```
 
 2
 
 ```
     open the build/index.html file on your browser
-    or go to
 ```
 
 3
