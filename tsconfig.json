@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
+    "target": "es2016",
     "module": "commonjs",
     "noImplicitAny": true,
     "removeComments": true,
-    "sourceMap": true,
     "outDir": "./build/js"
   },
   "inlclude": ["src/**/*"]
